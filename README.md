@@ -6,6 +6,8 @@ Independent security researcher interested in blockchain, smart contracts, progr
 
 Multiple top 1, top 5, and top 10 finishes in security contests.
 
+- 50+ vulnerabilities identified, including 15+ High, Medium, or Low severity findings.
+
 - Audit collaboration profile: [AnomX](https://audits.sherlock.xyz/watson/anomx)
 - Sherlock researcher: [Iam0ti](https://audits.sherlock.xyz/watson/iam0ti)
 - Became a Senior Watson on Sherlock on October 29, 2025.
