@@ -2,6 +2,10 @@
 
 Independent security researcher interested in blockchain, smart contracts, program analysis, zero-knowledge systems, cryptography, software correctness, and low-level systems.
 
+## CV
+
+**[View or download my CV (PDF)](output/pdf/Iam0ti_CV.pdf)**
+
 ## Work
 
 Multiple top 1, top 5, and top 10 finishes in security contests.
