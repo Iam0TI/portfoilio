@@ -8,6 +8,10 @@ Multiple top 1, top 5, and top 10 finishes in security contests.
 
 - Audit collaboration profile: [AnomX](https://audits.sherlock.xyz/watson/anomx)
 - Sherlock researcher: [Iam0ti](https://audits.sherlock.xyz/watson/iam0ti)
+- Became a Senior Watson on Sherlock on October 29, 2025.
+- HackenProof researcher: [baldIguana](https://hackenproof.com/hackers/baldIguana)
+
+  ![Sherlock Senior Watson announcement](assets/sherlock-senior-watson-announcement.png)
 - [3rd place — HackenProof × BlockZ contest](https://x.com/HackenProof/status/1979143500848415028?s=20)
 
 > I deleted my hackenproof account for some weird reason , so my contest history is no longer available on the platform.
